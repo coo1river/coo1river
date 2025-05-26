@@ -25,8 +25,10 @@
 <img src="https://shields.io/badge/styledcomponents-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge" />
 <img src="https://shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
 
-### 🛠 Tools
-<img src="https://shields.io/badge/storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge" />
+### 🧰 Tools
+<img src="https://shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge" />
+<img src="https://shields.io/badge/TanStack_Query-FF4154?logo=react-query&logoColor=white&style=for-the-badge" />
+<img src="https://shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge" />
 
 </div>
 
